@@ -1,4 +1,5 @@
 #!/usr/bin/perl -w
+no warnings "all";
 eval 'exec perl -S $0 "$@"'
     if 0;
 
